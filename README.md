@@ -1,5 +1,7 @@
 This react app is a simple People to Activity matcher.  You enter in a list of people and their skills.  And enter in Activities.  Then you can see which activities match the people in your data.  It's persistent data because I used Redux to store the user's entered data locally.  
 
+Live Demo:
+https://match-people-to-activities.netlify.app
 
 Screenshot: 
 ![Image 9-26-24 at 11 00 AM](https://github.com/user-attachments/assets/d408d787-e6fe-4eee-9fd0-b0f568b727b9)
