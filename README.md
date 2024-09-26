@@ -1,3 +1,8 @@
+This react app is a simple People to Activity matcher.  You enter in a list of people and their skills.  And enter in Activities.  Then you can see which activities match the people in your data.  It's persistent data because I used Redux to store the user's entered data locally.  
+
+
+---------------boilerplate react readme below------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
